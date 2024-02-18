@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java,**
 
-- 📫 How to reach me **sunnyskylove22@gmail.com**
+- 📫 How to reach me **sunnyskylove22@gmail.com, <br> https://welcome-to-new-world.tistory.com/**
 
 <img width="30%" src="https://github.com/sunnyskylove/sunnyskylove/assets/158137051/9c5841ba-03de-4589-8d0d-44f1c6aa6cea"/>
 
