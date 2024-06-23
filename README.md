@@ -1,23 +1,78 @@
-<h1 align="center">Hi 👋, I'm Youngsun Kang</h1>
-<h3 align="center">A passionate frontend and backend developer from Korea</h3>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+# Welcome to My Sub GitHub Repository! 👋
 
+This repository serves as a secondary archive for my coding projects and coursework. <br>
+Here, you will find a collection of various projects I have worked on during my studies and beyond.
 
-- 🌱 I’m currently learning **Java,**
+## 📚 Course Content Source Code
+In this section, you can explore the source codes from my academy classes. <br>
+These include various assignments, exercises, and class projects.
 
-- 📫 How to reach me **sunnyskylove22@gmail.com, <br> https://welcome-to-new-world.tistory.com/**
+## 🛠️ Semi Projects
+These are mid-sized projects that I developed as part of my course curriculum. They demonstrate the application of theoretical concepts in practical scenarios.
 
-<img width="30%" src="https://github.com/sunnyskylove/sunnyskylove/assets/158137051/9c5841ba-03de-4589-8d0d-44f1c6aa6cea"/>
+**Semi Projects:**
+1. **HitechAutoworks:** Car Repair Shop Reservation System / panghunJO
+  - **Description:** This project is a web application for an automobile repair shop reservation system.
+ Customers can book appointments for car maintenance and repairs. The system includes features such as appointment scheduling, customer registration, and service management. Additionally, staff and managers can schedule and reserve tasks/repairs, and communicate with each other in real-time using a commenting system, and so on.
+    - **Technologies Used:** 
+        - **Frontend:** HTML, CSS, JavaScript
+        - **Backend:** Java
+        - **Database:** MySQL
+        - **ORM Framework:** MyBatis
+        - **Other Tools:** API
+    - **Repository:** The source code can be found at [panghunJo](https://github.com/panghunJo)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🌟 Toy Projects
+A collection of fun and experimental projects that I created to explore new technologies and frameworks. 
+These projects are a mix of small applications, games, and utilities.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+**Toy Projects:**
+1. **Calculator 1:** Calc / byebyemedia
+    - **Description:** A basic calculator application that performs simple arithmetic operations (addition, subtraction, multiplication, and division). This project runs within the IntelliJ IDEA environment. It is designed to operate correctly for integer calculations and throws an `IllegalArgumentException` when attempting to divide by zero.
+    - **Technologies Used:** Java
+2. **TeamIntroducePage:** 100_login / rnewr
+ - **Description:** A simple clone of the Facebook page built using HTML, CSS, and JavaScript. This project was created to practice front-end development skills and mimic the basic layout and functionality of Facebook.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnyskylove&show_icons=true&locale=en&layout=compact" alt="sunnyskylove" /></p>
+## 🗓️ Project Timeline
+All projects in this repository were developed between **January 2024 and June 2024**. <br>
+This timeframe encompasses the complete duration of my focused learning and project development.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyskylove&show_icons=true&locale=en" alt="sunnyskylove" /></p>
+## 🛠️ Technologies Used
+Throughout these projects, I utilized a variety of technologies and languages, including:
+### Languages and Frameworks
+- HTML
+- CSS
+- Java
+- JavaScript
+- Spring
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyskylove&" alt="sunnyskylove" /></p>
+### Web Technologies
+- Servlet
+
+### Database Technologies
+- MySQL (Relational Database Management, SQL Queries)
+
+### ORM (Object-Relational Mapping) Framework
+- MyBatis
+- JPA
+
+### Database Connectivity
+- JDBC
+
+### Other Tools and Technologies
+- JSON
+- REST API
+
+## 📂 Repository Structure
+The repository is organized as follows:
+
+## 🤝 Contributing
+Since this repository is a secondary archive, I am not actively seeking contributions. <br>
+However, if you find any issues or have suggestions, feel free to open an issue or contact me directly.
+
+## 📫 Contact
+You can reach me at [sunnyskylove22@gmail.com].
+
+Thank you for visiting my sub GitHub repository! <br>
+Feel free to explore and reach out if you have any questions.
+
