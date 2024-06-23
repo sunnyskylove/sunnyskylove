@@ -62,10 +62,7 @@ Throughout these projects, I utilized a variety of technologies and languages, i
 ### Other Tools and Technologies
 - JSON
 - REST API
-
-## 📂 Repository Structure
-The repository is organized as follows:
-
+- 
 ## 🤝 Contributing
 Since this repository is a secondary archive, I am not actively seeking contributions. <br>
 However, if you find any issues or have suggestions, feel free to open an issue or contact me directly.
