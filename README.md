@@ -4,7 +4,7 @@ This repository serves as a secondary archive for my coding projects and coursew
 Here, you will find a collection of various projects I have worked on during my studies and beyond.
 
 ## 📚 Course Content Source Code
-In this section, you can explore the source codes from my academy classes. <br>
+In this section, you can explore the source codes from my academy classes  where I learned. <br>
 These include various assignments, exercises, and class projects.
 
 ## 🛠️ Semi Projects
